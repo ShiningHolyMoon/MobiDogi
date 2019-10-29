@@ -1,0 +1,54 @@
+<resources>
+  <string name="app_name">MobiDogi</string>
+  <string name="title_home">Koti</string>
+  <string name="title_dashboard">Yhteys kouluttajaan</string>
+  <string name="title_notifications">Profiili</string>
+  <string name="title_mitenkoiraoppii">Miten koira oppii</string>
+  <string name="title_lenkkeily">Lenkkeily</string>
+  <string name="title_luoksetulo">Luoksetulo</string>
+  <string name="title_hoitotoimenpiteet">Hoitotoimenpiteet</string>
+  <string name="title_yksinolo">Yksinolo</string>
+  <string name="title_activity_login">Sign in</string>
+  <string name="prompt_email">Email</string>
+  <string name="prompt_password">Password</string>
+  <string name="action_sign_in">Sign in or register</string>
+  <string name="action_sign_in_short">Sign in</string>
+  <string name="welcome">"Welcome !"</string>
+  <string name="invalid_username">Not a valid username</string>
+  <string name="invalid_password">Password must be >5 characters</string>
+  <string name="login_failed">"Login failed"</string>
+  <string name="title_activity_second">SecondActivity</string>
+  <string name="luento_oppiminen">Luento: Oppiminen</string>
+  <string name="title_activity_third">ThirdActivity</string>
+  <string name="oppiminen">Omistajasta poispäin suuntautuva liike
+Luopumisharjoittelu
+Tällä harjoituksella opetetaan koiralle itsehillintää asioista luopumista omistajan
+käskystä. Luopuminen on yksi osa koiran peruskäytöksiä.
+Mene lattialle istumaan ja pyydä koira eteesi. Ota kämmenesi sisään makupaloja.
+Koira rupeaa todennäköisesti tökkimään kuonollaan /järsimään hampaillaan /
+raapimaan tassuillaan kättäsi. Älä tee mitään äläkä sano mitään.
+Heti, kun koira irrottaa kuononsa kädestä,käsi aukeaa, ja se saa palkan.
+OLE TARKKANA AJOITUKSEN KANSSA! Heti kun kuono irtoaa, sanot sanan
+jonka olet ehdollistanut ja avaat käden palkaksi. Palkkaa eri kädellä kuin mihin
+koira on hakeutunut.Tee viisi toistoa.
+Kun koira on tajunnut mistä harjoituksessa on kyse, voidaan toimintoon liittää
+vihjesana (esim. yllä mainittu ”Jätä se”).
+Eli: nyt kun koira tulee kätesi luo makupalat saadakseen, ja kun kuono irtoaa,
+sanot ”jätä!” ja palkkaat. Eli vaihdat kehun tuohon vihjesanaan.
+Testaa toimiiko vihje: ennenkuin koira tuleekaan kätesi luo, sano sana, ja koiran
+totellessa, palkkaa. Jos vihje ei toimi ja koira tulee silti kädellesi vaikka kuuleekin
+vihjesanan, palaa harjoituksessa taaksepäin ja tarkkaile, missä meni vikaan?
+Minkä koira on tajunnu väärin?
+Huomioi myös, että koiran tehdessä väärin, älä huomioi sitä mitenkään, vaan
+keskeytä harjoitus ja mieti, missä meni vikaan. Sitten, toista harjoitus.
+Kun koira on tajunnut toiminnon oikein (vihjeestäsi jättää makupala-kätesi
+rauhaan), vaikeuta tehtävää; vie käytöstä eri ympäristöihin ja eri häiriöiden
+alle ja käytä erilaisia kohteita luopumiseen; leluja, lenkkipolun varrella
+olevaa hajua, jne.Muista aina palkata koiran luopuessa jostakin mitä se
+tavoittelee!
+Vinkki: Jos koirasi on nopea, ja oikean ajoituksen saaminen tuntuu hankalalta, voi
+tässä käyttää naksutinta apuna. Naksauta heti kun koiran kuono irtoaa kädestäsi
+ja palkkaa. Muista kuitenkin huomioida että olet ennen naksuttimen käyttöä
+ehdollistanut koiran tämän merkitsevän palkkaa! Tai ehdollista koiralle naksu-ääni
+naksauttamallla itse kitalakeesi.</string>
+</resources>
